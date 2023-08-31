@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Payment Platform</string>
+    <string name="username_icon_description">user icon</string>
+    <string name="username_hint">username</string>
+    <string name="username">Username</string>
+    <string name="poscloud_pvt_limited">Poscloud (Pvt) Limited</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register_user_name">Register</string>
+</resources>
